@@ -64,4 +64,4 @@ Run all cells in order. The data-fetching cell makes one API call per dataset pe
 
 ## License
 
-This notebook is provided under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+This notebook is provided under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).
