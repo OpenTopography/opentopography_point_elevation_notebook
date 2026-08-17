@@ -1,5 +1,9 @@
 # OpenTopography Point Elevation API — Demo Notebook
 
+[![NSF-2410799](https://img.shields.io/badge/NSF-2410799-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2410799)
+[![NSF-2410800](https://img.shields.io/badge/NSF-2410800-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2410800)
+[![NSF-2410801](https://img.shields.io/badge/NSF-2410801-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2410801)
+
 A Jupyter notebook demonstrating how to use the
 [OpenTopography Point Elevation API](https://portal.opentopography.org/apidocs/#/Public/getPointElevation)
 to retrieve and compare elevation values across multiple global datasets at a single geographic coordinate.
